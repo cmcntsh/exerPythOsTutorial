@@ -52,8 +52,8 @@
   * os.path.isdir()
   * os.path.isfile()
   * os.path.splitext()
-  * add a comment in a cell with a url for official Python documentation (not shown in the video - Google it)
-  * add a comment in a cell with a url for a tutorial on the OS module in the official documentation (not shown in the video - look through the documentation to find it)
+  * add a comment in a cell with a url for official Python documentation (print("This will run.")  # This won't run_adding comment in python https://docs.python.org/3/contents.html)
+  * add a comment in a cell with a url for a tutorial on the OS module in the official documentation (print("This will run.")  # This won't run_adding coment with a url for a tutorial on the OS module in the official documentation from ass https://github.com/cmcntsh/exerPythOsTutorial)
   
 * When you're done make sure you save your file.
 
