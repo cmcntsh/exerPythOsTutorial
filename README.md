@@ -1,5 +1,7 @@
 # Python OS Module Tutorial
 
+(2021 update: No better tutorials for this topic found.)
+
 ## Summary of steps to complete
 
 - [ ] Fork this repository so you have your own copy to work on.
