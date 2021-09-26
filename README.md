@@ -12,7 +12,11 @@
 ## Fork & Clone this repository
 
 * We did this in a previous assignment. Instructions are here: https://github.com/cmcntsh/exerGitPractice
-* This can also be done directly in VSCode
+  * A reminder about forking a repository:
+  * Forking a repository is copying it from an original GitHub account to your own GitHub account.
+  * Forking a repository is done by clicking on the Fork button located at the top, right corner of the main repository page.
+  * You can only fork a repository once. If you try to fork a repository on your own GitHub account, you'll get an error message. If you try to fork a repository you already forked (without deleting it on your own account first), you'll also get an error message that you already forked the repository.
+* Cloning a repository can also be done directly in VSCode
   * Create a new folder on your machine where you want to put this repository if you don't already have one you want to use.
   * Copy the Clone or Download path for this repository from GitHub.
   * In VSCode from the command pallette (Ctrl-Shift-P) run Git: Clone
