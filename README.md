@@ -28,6 +28,7 @@
 
 ## Create a Jupyter Notebook .ipynb file
 
+* 2022 update: Complete the notebook which is included in the repository.
 * In Jupyter Notebook or VSCode navigate to your repository folder.
   * Create a new Jupyter Notebook called OSTutorial.ipynb
 
